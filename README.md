@@ -1,7 +1,7 @@
-###Untuk menjalankan program ini membutuhkan Versi PHP ^7.4 atau lebih tinggi
-###Dan memiliki driver sqlsrv pada PHP
+### Untuk menjalankan program ini membutuhkan Versi PHP ^7.4 atau lebih tinggi
+### Dan memiliki driver sqlsrv pada PHP
 
-##software pendukung
+## software pendukung
 
 1. install composer
    https://getcomposer.org
