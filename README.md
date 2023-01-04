@@ -14,6 +14,8 @@ Cara instalasi
 <img width="1920" alt="Screenshot 2023-01-05 at 03 35 27" src="https://user-images.githubusercontent.com/59462709/210646909-b9c87fbf-93a2-452d-9cec-1e8afed0ddaf.png">
 
 2. Buat file baru bernama .env copy seluruh isi file .env.example lalu paste pada file .env
+<img width="1920" alt="Screenshot 2023-01-05 at 03 52 00" src="https://user-images.githubusercontent.com/59462709/210648239-e11098b5-37ae-4c10-8a7b-af70c917a6fd.png">
+
 3. Buka Terminal VSCode lalu ketik "composer update" pada terminal dan enter
 4. Langkah Berikutnya ketik "php artisan key:generate" pada terminal lalu enter
 5. Selanjutnya ketik "php artisan serve" untuk menjalankan server Laravel
