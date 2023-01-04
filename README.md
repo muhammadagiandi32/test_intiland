@@ -11,6 +11,8 @@ software pendukung
 Cara instalasi
 
 1. Buka File .env.example.
+<img width="1920" alt="Screenshot 2023-01-05 at 03 35 27" src="https://user-images.githubusercontent.com/59462709/210646909-b9c87fbf-93a2-452d-9cec-1e8afed0ddaf.png">
+
 2. Buat file baru bernama .env copy seluruh isi file .env.example lalu paste pada file .env
 3. Buka Terminal VSCode lalu ketik "composer update" pada terminal dan enter
 4. Langkah Berikutnya ketik "php artisan key:generate" pada terminal lalu enter
