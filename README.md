@@ -9,7 +9,7 @@
 2. install driver sqlsrv
    https://learn.microsoft.com/id-id/sql/connect/php/download-drivers-php-sql-server?view=sql-server-ver16
 
-##Cara instalasi
+## Cara instalasi
 
 1. Buka File .env.example.
 <img width="1920" alt="Screenshot 2023-01-05 at 03 35 27" src="https://user-images.githubusercontent.com/59462709/210646909-b9c87fbf-93a2-452d-9cec-1e8afed0ddaf.png">
