@@ -27,3 +27,5 @@
 <img width="1920" alt="Screenshot 2023-01-05 at 03 41 49" src="https://user-images.githubusercontent.com/59462709/210651135-3f789b6b-6982-4bd6-8911-b76893a1f154.png">
 
 6. Default url pada laravel http://127.0.0.1:8000 silahkan buka url tertera pada browser
+<img width="1920" alt="Screenshot 2023-01-05 at 04 21 16" src="https://user-images.githubusercontent.com/59462709/210652305-1997ead8-61cf-4746-9bef-4c96595b5254.png">
+
