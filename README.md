@@ -24,4 +24,6 @@
 <img width="1920" alt="Screenshot 2023-01-05 at 03 40 51" src="https://user-images.githubusercontent.com/59462709/210650516-b6c54952-907a-4864-b151-82a36197a0be.png">
 
 5. Selanjutnya ketik "php artisan serve" untuk menjalankan server Laravel
+<img width="1920" alt="Screenshot 2023-01-05 at 03 41 49" src="https://user-images.githubusercontent.com/59462709/210651135-3f789b6b-6982-4bd6-8911-b76893a1f154.png">
+
 6. Default url pada laravel http://127.0.0.1:8000 silahkan buka url tertera pada browser
