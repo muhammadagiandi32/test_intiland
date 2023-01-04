@@ -21,5 +21,7 @@
 <img width="1920" alt="Screenshot 2023-01-05 at 03 39 10" src="https://user-images.githubusercontent.com/59462709/210649080-5b20c656-c14f-4b7e-8f51-7d0f64ce0ac8.png">
 
 4. Langkah Berikutnya ketik "php artisan key:generate" pada terminal lalu enter
+<img width="1920" alt="Screenshot 2023-01-05 at 03 40 51" src="https://user-images.githubusercontent.com/59462709/210650516-b6c54952-907a-4864-b151-82a36197a0be.png">
+
 5. Selanjutnya ketik "php artisan serve" untuk menjalankan server Laravel
 6. Default url pada laravel http://127.0.0.1:8000 silahkan buka url tertera pada browser
